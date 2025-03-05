@@ -57,6 +57,7 @@ Bootstrap 5 HTML CSS Template
                             <small class="logo-slogan">Online Job Portal</small>
                         </div>
                     </div>  
+                    
 
                     <p class="mb-2">
                         <i class="custom-icon bi-globe me-1"></i>

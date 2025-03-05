@@ -23,6 +23,6 @@ class SiteController extends Controller
  public function listing()
  {
 return view('listing');
+ }
 
 }
-}    
