@@ -185,6 +185,7 @@
                                 </a>
                             </div>
                         </div>
+                        
 
                         <div class="col-lg-2 col-md-4 col-6">
                             <div class="categories-block">
